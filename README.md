@@ -13,6 +13,7 @@ I started making code onto the second screen this code i will make would make th
 I went onto make the design of the entire app look pretty so i created a new drawable and i named it "background", i added the drawable to both screens and added a font to the textview within the first page and the title of the first page to make the welcoming text to the users look presentable and friendly so it shows that it is simply a childs game that is not complicated.
 
 I have explained me entire app by detail thank you for looking at the report below of this report you will find the link to a video of how the app works:
+https://youtu.be/42KwYsnSIh8?si=hUBnhZxdCrMlG-BC
 
 
 
