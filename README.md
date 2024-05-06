@@ -15,5 +15,8 @@ I went onto make the design of the entire app look pretty so i created a new dra
 I have explained me entire app by detail thank you for looking at the report below of this report you will find the link to a video of how the app works:
 https://youtu.be/42KwYsnSIh8?si=hUBnhZxdCrMlG-BC
 
+![tamagotchi](https://github.com/ST10447342/IMAD-Assignment-2/assets/164493170/09518d8b-8f17-482c-a3e2-caa5a51769d6)
+
+
 
 
